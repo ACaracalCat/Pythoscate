@@ -1,2 +1,2 @@
 # Python-Ragdoll-Obfuscation
-A simple and effective obfuscator for Python.
+A simple but effective obfuscator for Python.
