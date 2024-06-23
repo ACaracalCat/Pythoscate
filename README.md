@@ -1,7 +1,9 @@
 # Ragdoll Obfuscator
-
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/ACaracalCat/ragdoll-obfuscator)
+[![License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/ACaracalCat/ragdoll-obfuscator/blob/main/LICENSE)
+![Version](https://img.shields.io/badge/version-1.0-blue)<br>
 Ragdoll Obfuscator is the best Python Obfuscator there is.
-![Ragdoll Obfuscator](logo.png)
+<img src="images/logo.png" alt="Ragdoll Obfuscator" width="150">
 > [!IMPORTANT]
 > Do not obfuscate other people's code without permission and claim it as yours! 
 
