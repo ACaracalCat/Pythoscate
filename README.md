@@ -1,7 +1,7 @@
 # Ragdoll Obfuscator
 
 Ragdoll Obfuscator is the best Python Obfuscator there is.
-![Ragdoll Obfuscator](path_to_logo_image)
+![Ragdoll Obfuscator](logo.png)
 > [!IMPORTANT]
 > Do not obfuscate other people's code without permission and claim it as yours! 
 
