@@ -10,11 +10,11 @@
 
 <h1 align="center">✨Features</h1>
 
-⚙️ 3 different encodings<br><br>
-🛠️ Encodes 10 different times (Total of 30 layers of security)<br><br>
-🔧 Keeps good performance/doesn't add lag to your Python files<br><br>
-❌ No dependencies are needed<br><br>
-🤖 Resistant to programs and AI<br><br>
+⚙️ 3 different encodings<br>
+🛠️ Encodes 10 different times (Total of 30 layers of security)<br>
+🔧 Keeps good performance/doesn't add lag to your Python files<br>
+❌ No dependencies are needed<br>
+🤖 Resistant to programs and AI
 
 
 <h1 align="center">📦Installation and Usage</h1>
