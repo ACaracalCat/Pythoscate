@@ -18,7 +18,8 @@ Ragdoll Obfuscator is the best Python Obfuscator you can find on the internet.
 
 ## Installation and Usage
 1. Download the [latest release](https://github.com/ACaracalCat/Python-Ragdoll-Obfuscation/releases)
-2. Run the following in a terminal/command line
+2. Download [Python 3.6](https://python.org/) or higher
+3. Run the following in a terminal/command line
 ```bash
 cd <path-to-ragdoll-obfuscator-folder>
 python main.py
