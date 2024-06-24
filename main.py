@@ -4,7 +4,7 @@ import base64
 import codecs
 import time
 
-print("Ragdoll Obfuscator Launched. Please Select a file.")
+print("Pythoscate Launched. Please Select a file.")
 
 def file_select():
     root = tk.Tk()
