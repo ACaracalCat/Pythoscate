@@ -15,10 +15,10 @@ def file_select():
 path = file_select()
 
 if path:
+    with open(path, 'r') as file:
+        script_content = file.read()
+    
     for i in range(10):
-        with open(path, 'r') as file:
-            script_content = file.read()
-
         base64_encoded = base64.b64encode(script_content.encode()).decode()
         rot13_encoded = codecs.encode(base64_encoded, 'rot_13')
         ascii85_encoded = base64.a85encode(rot13_encoded.encode()).decode()
@@ -29,12 +29,15 @@ if path:
             f"exec(base64.b64decode(codecs.decode(base64.a85decode({repr(ascii85_encoded)}).decode(), 'rot_13')).decode())"
         )
 
+        script_content = encoded_exec
+
         with open(path, 'w') as file:
             file.write(encoded_exec)
 
         print(f"Obfuscated {i+1} time(s)")
-    
+
     print(f"Obfuscated {path}!")
+
 else:
     print("No file selected...")
 
