@@ -1,10 +1,9 @@
 # Pythoscate
+<img src="images/logo.png" alt="Pythoscate Obfuscator" width="150">
+
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Version](https://img.shields.io/badge/version-1.0-blue)<br>
-
-<img src="images/logo.png" alt="Pythoscate Obfuscator" width="150">
-
 Pythoscate is the best Python Obfuscator you can find on the internet.
 
 > [!IMPORTANT]
