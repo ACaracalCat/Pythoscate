@@ -12,6 +12,7 @@
 
 ⚙️ 3 different encodings<br>
 🛠️ Encodes 10 different times (Total of 30 layers of security)<br>
+📛 Renames every function to a random string<br>
 🔧 Keeps good performance/doesn't add lag to your Python files<br>
 ❌ No dependencies are needed<br>
 🤖 Resistant to programs and AI
